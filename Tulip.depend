@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606302667 source:c:\users\user\desktop\third year\codeblocks\tulip\main.c
+	<GL/glut.h>
+	<GL/gl.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+
